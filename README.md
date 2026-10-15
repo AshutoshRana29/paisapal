@@ -1,4 +1,4 @@
-# PaisaPal – Personal Expense & Budget Coach
+# PaisaPal: The Personal Expense & Budget Coach
 
 **Task Code:** T3  
 **Agent Name:** PaisaPal  
