@@ -3,7 +3,7 @@
 **Task Code:** T3  
 **Agent Name:** PaisaPal  
 
-A simple AI agent that lets users log expenses in plain English, track monthly spending, and manage budgets. All data is stored in a real SQLite database.
+AI agent that lets you track expenses and budgets by talking in plain English.
 
 ---
 
@@ -18,7 +18,7 @@ like:
 - "Set my shopping budget to 3000"
 - "Am I over budget anywhere?"
 
-The agent extracts amount, category, and date, stores it in the database, and answers questions by querying the data.
+It logs the data in SQLite, the agent extracts amount, category, and date, stores it in the database, and answers questions by querying the data.
 
 ---
 
